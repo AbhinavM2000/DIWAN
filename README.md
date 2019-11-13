@@ -1,5 +1,5 @@
 # DIWAN
-Distributed IoT based Water Analytics Network
+Low-cost Distributed IoT based Water Analytics Network
 
 ## Description 
 
